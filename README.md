@@ -1,3 +1,5 @@
+⚠️WARNING: This client is deprecated⚠️ 
+
 # Lemonway Wordpress/Woocommerce
 ---
 ## How to use this repository
